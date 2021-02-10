@@ -1,0 +1,16 @@
+{
+	"name": "o-lee-test-component",
+	"description": "just a test",
+	"ignore": [
+		"node_modules",
+		"bower_components",
+		"build"
+	],
+	"main": [
+		
+		"main.js"
+	],
+	"dependencies": {
+		"o-brand": "^3.2.10"
+	}
+}
